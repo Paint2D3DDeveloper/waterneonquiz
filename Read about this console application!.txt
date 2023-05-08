@@ -1,0 +1,5 @@
+WaterNeon Programming Language Quiz:
+/!\ Note: This application may look dangerous to users, because it is unknown application, so I recommend, that you scan this file!
+
+You can type and enter your answer in an console application, Either it's A, B, C, D, C, Python, Rust, Assembly, a, b, c, d or type random text, and it prints "Nothing!"
+Developed by Paint3DDrawReact
