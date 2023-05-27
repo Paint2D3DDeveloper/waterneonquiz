@@ -1,9 +1,10 @@
-WaterNeon Programming Language Quiz:
+WaterNeon Operating System Quiz:
+Version A1._0
 /!\ Note: This application may look suspicious to users, because it is unknown application, so I recommend, that you scan this file!
+For other operating systems that support Wine software, download and install Wine on your non-Windows-based operating system by using commands, visit the website of Wine (https://www.winehq.org/) and download and install it or download and install it in your software installation and package manager!
 
-
-The password is: z6He!V;*Abj8$rm4
+The password is: }8k[h%zF;Fsy$%`^
 You have to extract this ZIP file to folder and enter the correct password!
 You can type either Yes!/yes!, No!/no! or type random text and it prints "/!\ Nothing!"
-You can also type and enter your answer in an console application, Either it's A, B, C, D, C, Python, Rust, Assembly, a, b, c, d or type random text, and it also prints "/!\ Nothing!"
+You can also type and enter your answer in an console application, Either it's A, B, C, D, C, Python, Rust, Assembly, a, b, c, d, other answers or type random text, and it also prints "/!\ Nothing!"
 Developed by Paint3DDrawReact
