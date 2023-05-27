@@ -1,7 +1,7 @@
 WaterNeon Operating System Quiz:
 Version A1._0
 /!\ Note: This application may look suspicious to users, because it is unknown application, so I recommend, that you scan this file!
-For other operating systems that support Wine software, download and install Wine on your non-Windows-based operating system by using commands, visit the website of Wine (https://www.winehq.org/) and download and install it or download and install it in your software installation and package manager!
+For other operating systems that support Wine software, download and install Wine on your non-Windows-based operating system by using command, visit the website of Wine (https://www.winehq.org/) and download and install it or download and install it in your software installation and package manager!
 
 The password is: }8k[h%zF;Fsy$%`^
 You have to extract this ZIP file to folder and enter the correct password!
